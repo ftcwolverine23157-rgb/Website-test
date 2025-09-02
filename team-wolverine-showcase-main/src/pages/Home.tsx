@@ -66,26 +66,26 @@ const Home = () => {
             <div className="grid grid-cols-2 gap-4">
               <Card className="text-center p-6">
                 <CardContent className="p-0">
-                  <div className="text-3xl font-bold text-primary mb-2">40+</div>
+                  <div className="text-3xl font-bold text-primary mb-2">198+</div>
                   <div className="text-muted-foreground">Countries</div>
                 </CardContent>
               </Card>
               <Card className="text-center p-6">
                 <CardContent className="p-0">
-                  <div className="text-3xl font-bold text-accent mb-2">4,000+</div>
+                  <div className="text-3xl font-bold text-accent mb-2">7,000+</div>
                   <div className="text-muted-foreground">Teams</div>
                 </CardContent>
               </Card>
               <Card className="text-center p-6">
                 <CardContent className="p-0">
-                  <div className="text-3xl font-bold text-primary mb-2">100+</div>
-                  <div className="text-muted-foreground">Events</div>
+                  <div className="text-3xl font-bold text-primary mb-2">28M</div>
+                  <div className="text-muted-foreground">Volunteer Hours</div>
                 </CardContent>
               </Card>
               <Card className="text-center p-6">
                 <CardContent className="p-0">
-                  <div className="text-3xl font-bold text-accent mb-2">50,000+</div>
-                  <div className="text-muted-foreground">Students</div>
+                  <div className="text-3xl font-bold text-accent mb-2">3.9M+</div>
+                  <div className="text-muted-foreground">Students Reached</div>
                 </CardContent>
               </Card>
             </div>
